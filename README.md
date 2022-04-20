@@ -6,7 +6,7 @@ Este projeto está configurado para JPA e JSF, com a estrutura de projeto Maven,
  * Eclipse 2021
  * JPA 2.2
  * Servidor Payara
- * JSF e Servlet 3.x
+ * JSF (com Primefaces 8) e Servlet 3.x
  * Git e Maven
  
  Por ser um este um projeto Maven, observe a necessidade de fazer os ajustes no "Deployment" do projeto Eclipse.
